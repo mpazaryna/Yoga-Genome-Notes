@@ -1,9 +1,9 @@
-# Scientific Notes
+# Yoga Genome Notes
 
 ## About
 ![Graph view](!Common/!Assets/Images/graph.png)
 
-This repository is a collection of regularly updated, collaborative, open-source notes on various topics in mathematical physics, physics and mathematics.
+This repository is a collection of regularly updated, collaborative, open-source notes on various topics in yoga and dharma.
 
 The project has the structure of an [Obsidian](https://obsidian.md/) vault.
 
@@ -15,15 +15,15 @@ The project has the structure of an [Obsidian](https://obsidian.md/) vault.
 ```
 cd <parent_directory>
 
-git clone https://github.com/Booodaness/Scientific-Notes
+git clone https://github.com/mpazaryna/Yoga-Genome-Notes
 ```
 
-3. Open `<parent_directory>/Scientific-Notes` as a new Obsidian vault.
+3. Open `<parent_directory>/Yoga-Genome-Notes` as a new Obsidian vault.
 
 ## Pools
 Each collaborator can directly edit content in root directories called pools. There are two kinds of pools  — individual pools and the common pool. Every author maintains an individual pool with the same name as their GitHub username. There is a second individual pool authors can optionally use, `!Private`. As it is included in the `.gitignore` file, all its contents are stored only locally in the respective author's systems. This feature is for keeping private notes, while making them locally linkable to public ones. However, we recommend authors to maintain the public notes as much as possible since it is the primary aim of this project. Lastly, we have the common pool with fully collaborative notes, in the directory `!Common`.
 
-When authors want to suggest edits to other authors' pools, they must [fork the project](https://github.com/Booodaness/Scientific-Notes/fork) , modify accordingly and start a pull request. After optional discussion in the request's review page, the changed pool's author (or the project's owner) may merge the pull request (or decline to do so).
+When authors want to suggest edits to other authors' pools, they must [fork the project](https://github.com/mpazaryna/Yoga-Genome-Notes/fork) , modify accordingly and start a pull request. After optional discussion in the request's review page, the changed pool's author (or the project's owner) may merge the pull request (or decline to do so).
 
 Each pool has the following layout:
 
@@ -79,7 +79,7 @@ The complete repository has the structure:
 ```
 
 ## Contributing
-Firstly, [fork this repository](https://github.com/Booodaness/Scientific-Notes/fork) and follow the steps for [viewing locally](#viewing-locally), but for the fork instead of the original repository. Now, for:
+Firstly, [fork this repository](https://github.com/mpazaryna/Yoga-Genome-Notes/fork) and follow the steps for [viewing locally](#viewing-locally), but for the fork instead of the original repository. Now, for:
 
 ### Adding personal notes
 1. Ensure that the parent directory of your notes has the layout of a [pool](#pools).
@@ -94,6 +94,5 @@ Firstly, [fork this repository](https://github.com/Booodaness/Scientific-Notes/f
 
 After completing the above steps, your contributions will be considered for merging into the project. If an author maintains their notes regularly, they will be invited to become a collaborator, accepting which allows them to directly push their writings to the project.
 
-Last but not the least, happy reading/writing! :)
 
 
